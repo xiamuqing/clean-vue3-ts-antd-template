@@ -32,7 +32,7 @@
 4. 在 Discussion 里写明自己所修改、增加的东西
 5. 在 Labels 里选择一个标签，表示属于哪类
 6. 在 Milestone 里选择一个里程碑，表示属于哪个阶段
-7. 在 Assignee 选择项目管理员（刘海平，郑俊辉）
+7. 在 Assignee 选择项目管理员
 8. 告知管理员，请求合并
 
  * 注：merge request 在 review 之后可能会有问题，提交者根据**批注**进行相关改动直接直接提交到该分支下（会自动同步到当前的 merge request 里），**不需要关闭当前 merge request 重新再开一个**。
