@@ -75,34 +75,34 @@ module.exports = {
             .set('store', resolve('src/store'))
             .set('lib', resolve('src/lib'))
             .set('type', resolve('src/type'))
-            .set(
-                '@ant-design/icons-svg/es/asn/CheckCircleFilled',
-                resolve('src/asset/svg/ant/CheckCircleFilled')
-            )
-            .set(
-                '@ant-design/icons-svg/es/asn/ExclamationCircleFilled',
-                resolve('src/asset/svg/ant/ExclamationCircleFilled')
-            )
-            .set(
-                '@ant-design/icons-svg/es/asn/CloseCircleFilled',
-                resolve('src/asset/svg/ant/CloseCircleFilled')
-            )
-            .set(
-                '@ant-design/icons-svg/es/asn/DownOutlined',
-                resolve('src/asset/svg/ant/DownOutlined')
-            )
-            .set(
-                '@ant-design/icons-svg/es/asn/RightOutlined',
-                resolve('src/asset/svg/ant/RightOutlined')
-            )
-            .set(
-                '@ant-design/icons-svg/es/asn/CaretDownOutlined',
-                resolve('src/asset/svg/ant/CaretDownOutlined')
-            )
-            .set(
-                '@ant-design/icons-svg/es/asn/CaretUpOutlined',
-                resolve('src/asset/svg/ant/CaretUpOutlined')
-            )
+            // .set(
+            //     '@ant-design/icons-svg/es/asn/CheckCircleFilled',
+            //     resolve('src/asset/svg/ant/CheckCircleFilled')
+            // )
+            // .set(
+            //     '@ant-design/icons-svg/es/asn/ExclamationCircleFilled',
+            //     resolve('src/asset/svg/ant/ExclamationCircleFilled')
+            // )
+            // .set(
+            //     '@ant-design/icons-svg/es/asn/CloseCircleFilled',
+            //     resolve('src/asset/svg/ant/CloseCircleFilled')
+            // )
+            // .set(
+            //     '@ant-design/icons-svg/es/asn/DownOutlined',
+            //     resolve('src/asset/svg/ant/DownOutlined')
+            // )
+            // .set(
+            //     '@ant-design/icons-svg/es/asn/RightOutlined',
+            //     resolve('src/asset/svg/ant/RightOutlined')
+            // )
+            // .set(
+            //     '@ant-design/icons-svg/es/asn/CaretDownOutlined',
+            //     resolve('src/asset/svg/ant/CaretDownOutlined')
+            // )
+            // .set(
+            //     '@ant-design/icons-svg/es/asn/CaretUpOutlined',
+            //     resolve('src/asset/svg/ant/CaretUpOutlined')
+            // )
     },
     productionSourceMap: false,
 }
